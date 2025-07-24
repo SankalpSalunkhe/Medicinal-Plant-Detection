@@ -8,7 +8,9 @@ A machine learning-based system to identify medicinal plants from images. This p
 
 ## 📸 Demo
 
-![Demo Screenshot](demo/demo-screenshot.png)  
+![Demo Screenshot](templates
+/Screenshot 2025-06-04 015128.png
+)  
 *(Add a screenshot of your app running here)*
 
 ---
